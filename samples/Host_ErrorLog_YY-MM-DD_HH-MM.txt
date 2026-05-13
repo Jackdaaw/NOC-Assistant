@@ -1,0 +1,2 @@
+Error Log
+192.168.1.3, Name3 | Ping Timeout
